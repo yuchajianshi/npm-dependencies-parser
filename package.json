@@ -1,0 +1,14 @@
+{
+  "name": "npm-dependencies-parser",
+  "version": "1.0.0",
+  "description": "对项目中的重复依赖进行分析",
+  "main": "index.js",
+  "bin": {
+    "npm-dependencies-parser": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smarkwang",
+  "license": "ISC"
+}
